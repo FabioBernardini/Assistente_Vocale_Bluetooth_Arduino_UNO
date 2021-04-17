@@ -3,4 +3,7 @@ Realizzazione di un'assistente vocale con modulo Bluetooth HC-05 e Arduino Uno, 
 
 Dopo essersi collegati con un device mobile al modulo Bluetooth HC-05, si va ad accendere o spegnere un LED tramite un comando vocale, sfruttando l'assistente vocale del device stesso.
 
+Nel file .ino, potrai trovare il codice da caricare sulla scheda Arduino.
+
+Nel file .apk troverai il codice a blocchi per l'app. Questo file dovrà essere caricato sul device e dopo averlo aperto, partirà la procedura di installazione dell'app.
 
