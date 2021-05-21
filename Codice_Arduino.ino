@@ -1,8 +1,5 @@
-//Accendiamo e spegnaimo led a distanza tramite applicazione su tablet
-
 #include <SoftwareSerial.h>
 
-//Variabile per la scheda Bluetooth
 SoftwareSerial bt(10, 11); // RX | TX
 char val=-1;//carattere inviato da applicazione android per modificare stato LED
 
